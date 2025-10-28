@@ -1,0 +1,17 @@
+# Virtual environment (Windows)
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local config 
+.env
+config.json
+
+# IDE
+.vscode/
+.idea/
